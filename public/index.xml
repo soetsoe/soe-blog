@@ -41,14 +41,14 @@ knitr::include_url(&amp;lsquo;https://github.com/soetsoe/soe-blog/blob/master/st
     </item>
     
     <item>
-      <title>Hello R Markdown</title>
-      <link>/2015/07/23/hello-r-markdown/</link>
+      <title>Final Project</title>
+      <link>/2015/07/23/final-project/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/2015/07/23/hello-r-markdown/</guid>
-      <description>library(knitr)knitr::include_url(&amp;#39;/static/slides/project_xaringan_slides.html&amp;#39;)project slides #R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+      <guid>/2015/07/23/final-project/</guid>
+      <description>knitr::include_url(&amp;#39;../../static/slides/project_xaringan_slides.html&amp;#39;)R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
-summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.</description>
+summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.</description>
     </item>
     
     <item>
@@ -61,14 +61,14 @@ summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
     </item>
     
     <item>
-      <title>Project</title>
-      <link>/project/</link>
+      <title>project</title>
+      <link>/1/01/01/project/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/project/</guid>
+      <guid>/1/01/01/project/</guid>
       <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 When you click the Knit button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-summary(cars)## speed dist ## Min.</description>
+knitr::include_url(&amp;#39;../../static/slides/project_xaringan_slides.html&amp;#39;)summary(cars)## speed dist ## Min.</description>
     </item>
     
   </channel>

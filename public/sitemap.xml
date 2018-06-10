@@ -18,7 +18,7 @@
   </url>
   
   <url>
-    <loc>/2015/07/23/hello-r-markdown/</loc>
+    <loc>/2015/07/23/final-project/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
@@ -42,10 +42,6 @@
     <loc>/post/</loc>
     <lastmod>2018-06-01T21:43:27-07:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
   </url>
   
   <url>
@@ -82,6 +78,10 @@
     <loc>/tags/tags/</loc>
     <lastmod>2018-06-01T21:43:27-07:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/1/01/01/project/</loc>
   </url>
   
 </urlset>
