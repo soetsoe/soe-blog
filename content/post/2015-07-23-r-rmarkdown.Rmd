@@ -1,6 +1,6 @@
 ---
 title: "Hello R Markdown"
-author: "Frida Gomam"
+author: "Soethiha Soe"
 date: '2015-07-23T21:13:14-05:00'
 tags:
 - R Markdown
@@ -8,14 +8,14 @@ tags:
 - regression
 categories: R
 ---
+```{r load_libraries}
+library(knitr)
+```
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(collapse = TRUE)
 ```
 
-```{r load_libraries}
-library(knitr)
-```
 
 ```{r embedd_slides}
 knitr::include_url('https://github.com/soetsoe/soe-blog/blob/master/static/slides/project_xaringan_slides.html#1')
