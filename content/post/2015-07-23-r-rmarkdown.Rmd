@@ -1,6 +1,6 @@
 ---
-title: "Hello R Markdown"
-author: "Frida Gomam"
+title: "Final Project"
+author: "Soethiha Soe"
 date: '2015-07-23T21:13:14-05:00'
 tags:
 - R Markdown
@@ -14,9 +14,6 @@ categories: R
 knitr::opts_chunk$set(collapse = TRUE)
 ```
 
-```{r load_libraries}
-library(knitr)
-```
 
 ```{r embedd_slides}
 knitr::include_url('../../static/slides/project_xaringan_slides.html')
