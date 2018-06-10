@@ -1,16 +1,24 @@
 ---
 title: "Hello R Markdown"
 author: "Frida Gomam"
-date: 2015-07-23T21:13:14-05:00
-categories: ["R"]
-tags: ["R Markdown", "plot", "regression"]
+date: '2015-07-23T21:13:14-05:00'
+tags:
+- R Markdown
+- plot
+- regression
+categories: R
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(collapse = TRUE)
 ```
+
+```{r load_libraries}
+library(knitr)
+```
+
 ```{r embedd_slides}
-knitr::include_url('https://github.com/soetsoe/soe-blog/blob/master/static/slides/project_xaringan_slides#1')
+knitr::include_url('https://github.com/soetsoe/soe-blog/blob/master/static/slides/project_xaringan_slides.html#1')
 ```
 
 # R Markdown
