@@ -1,12 +1,12 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "soe's website"
+title = "Soe's blog"
 tags = ["toml","yaml"]
 type = "article"
 theme = "hugo-lithium"
 googleAnalytics = ""
 disqusShortname = ""
-author = "soe"
+author = "Soethiha Soe"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [permalinks]
@@ -17,7 +17,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     url = "/about/"
 [[menu.main]]
     name = "GitHub"
-    url = "https://github.com/rstudio/blogdown"
+    url = "https://github.com/soetsoe/"
 [[menu.main]]
     name = "Twitter"
     url = "https://twitter.com/rstudio"
@@ -35,7 +35,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     MathJaxVersion = "2.7.1"
 
     [params.logo]
-    url = "logo.png"
+    url = "soe.png"
     width = 50
     height = 50
     alt = "Logo"
