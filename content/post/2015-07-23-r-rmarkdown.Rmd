@@ -19,10 +19,8 @@ library(knitr)
 ```
 
 ```{r embedd_slides}
-knitr::include_url('/static/slides/project_xaringan_slides.html')
+knitr::include_url('../../static/slides/project_xaringan_slides.html')
 ```
-project slides
-#![plot of ](/static/slides/project_xaringan_slides.html)
 
 # R Markdown
 
