@@ -8,6 +8,7 @@ tags: ["R Markdown", "plot", "regression"]
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(collapse = TRUE)
+knitr::include_url('https://github.com/soetsoe/soe-blog/blob/master/static/slides/project_xaringan_slides.html')
 ```
 
 # R Markdown
